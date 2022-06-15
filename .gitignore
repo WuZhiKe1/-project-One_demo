@@ -1,2 +1,4 @@
 # 忽略index.html
 index.html
+#忽略当前目录下的 project_02
+project_02/
